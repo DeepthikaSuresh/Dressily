@@ -6,6 +6,6 @@ Home Page
 ![image alt](https://github.com/DeepthikaSuresh/Dressily/blob/main/Screenshot%202025-05-27%20113206.png?raw=true)
 
 Cards 1
-![image alt](https://github.com/DeepthikaSuresh/Dressily/blob/main/Screenshot%202025-05-27%20113206.png?raw=true)
+![image alt]([https://github.com/DeepthikaSuresh/Dressily/blob/main/Screenshot%202025-05-27%20113206.png?raw=true](https://github.com/DeepthikaSuresh/Dressily/blob/main/Screenshot%202025-05-27%20113233.png?raw=true))
 
 Cards 2
