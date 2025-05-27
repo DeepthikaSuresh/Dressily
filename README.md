@@ -11,5 +11,5 @@ Cards 1
 Cards 2
 ![image alt](https://github.com/DeepthikaSuresh/Dressily/blob/9952cb9c8ad1b1d25c4aa46670c6f14127cdaf09/Screenshot%202025-05-27%20113247.png)
 
-Cards 3
-![image alt]()
+Cards 3 & Footer
+![image alt](https://github.com/DeepthikaSuresh/Dressily/blob/9b04ff1757757f9f02524f3b5129543776f9c316/Screenshot%202025-05-27%20113256.png)
